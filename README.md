@@ -17,9 +17,9 @@
 
 This version includes the following updates:
 
-- ✏️ [Your modification #1, e.g., "Updated Dock icons"]
-- 🎨 [Your modification #2, e.g., "Changed color scheme"]
-- ⚙️ [Your modification #3, if applicable]
+- ✏️ [Updated Dock icons]
+- 🎨 [Changed color scheme]
+- ⚙️ [Not decided yet lol]
 
 Feel free to open issues or PRs if you'd like to contribute or suggest improvements.
 
