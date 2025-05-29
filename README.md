@@ -1,28 +1,37 @@
-> 🛑🛑 You're viewing the legacy version. macOS Web has moved over to Svelte! Check out here: [PuruVJ/macos-web](https://github.com/puruvj/macos-web) 🛑🛑
+# macOS Web – Modified Version
 
-# Mac OS Monterey Web
+🚀 This is a customized version of [PuruVJ's macOS Web](https://github.com/puruvj/macos-web), originally developed using Preact + Vite to emulate the macOS Monterey desktop in the browser.
 
-This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
+> ✨ This version includes minor modifications/enhancements and is deployed at:  
+👉 [https://mac-os-git-main-ariels-projects-f0bc9394.vercel.app](https://mac-os-git-main-ariels-projects-f0bc9394.vercel.app)
 
-🔗🔗 [macos.now.sh](https://macos.now.sh)
+---
 
-# Why
+## 📌 About the Original Project
 
-I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, it's desktop, myself. For web. Inspired from [WinXP](https://winxp.now.sh/).
+> The original project aimed to replicate some of macOS Monterey’s desktop experience using standard web technologies like HTML, CSS, and JS. It was developed by [Puru Vijay](https://github.com/puruvj), and you can find the original repository [here](https://github.com/puruvj/macos-web).
 
-# Stack
+---
 
-- Framework - Preact (Earlier React. Swapped for runtime performance gains)
-- Bundler - Vite, for super fast development.
-- Component Library - None!!
-- Styling Solution - SCSS and CSS Modules.
+## 🔧 Modifications in This Version
 
-[Roadmap](https://www.notion.so/MacOS-Web-Roadmap-274d703460564ea3bb5493b39bf8f886)
+This version includes the following updates:
 
-# When will it be ready?
+- ✏️ [Your modification #1, e.g., "Updated Dock icons"]
+- 🎨 [Your modification #2, e.g., "Changed color scheme"]
+- ⚙️ [Your modification #3, if applicable]
 
-![Who knows?](https://i.imgur.com/6xfbPzs.gif)
+Feel free to open issues or PRs if you'd like to contribute or suggest improvements.
 
-# Can I contribute?
+---
 
-Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a PR and I appreciate it.
+## 📄 License
+
+This project remains under the MIT License.  
+The original work © 2021 Puru Vijay is preserved.  
+Modifications © 2025 Ariel Wang.
+
+See the [LICENSE](./LICENSE) file for full details.
+
+
+
