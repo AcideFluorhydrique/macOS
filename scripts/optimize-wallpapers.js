@@ -23,9 +23,7 @@ const spinner = ora({
 const counter = (final) => {
   let _count = 0;
 
-  function increment(
-    
-  ) {
+  function increment() {
     _count++;
 
     console.log(`Resizing ${_count} of ${final}`);
@@ -36,8 +34,7 @@ const counter = (final) => {
 
 async function main() {
   // Loop through the images
-  const filesInWallpapers = (
-    await readdir('../src/assets/wallpapers')).filter((str) =>
+  const filesInWallpapers = (await readdir('../src/assets/wallpapers')).filter((str) =>
     str.includes('.'),
   );
 

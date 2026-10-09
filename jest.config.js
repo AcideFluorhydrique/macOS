@@ -4,5 +4,4 @@ module.exports = {
   moduleNameMapper: {
     '^@__/(.*)$': '<rootDir>/src/$1',
   },
-  
 };
