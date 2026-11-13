@@ -29,7 +29,7 @@ Feel free to open issues or PRs if you'd like to contribute or suggest improveme
 
 This project remains under the MIT License.  
 The original work © 2021 Puru Vijay is preserved.  
-Modifications © 2025 Ariel Wang.
+Modifications © 2025 AcideFluorhydrique.
 
 See the [LICENSE](./LICENSE) file for full details.
 
